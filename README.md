@@ -58,7 +58,7 @@ LinearRegression 0.999994 0.002496 0.002886
   - MAE (Mean Absolute Error): Média dos valores absolutos dos erros, não penaliza grandes desvios, sendo menos sensivel a outliers.
 
 ## 📈 Resultados
-- A análise revelou que os modelos lineares (Linear Regression, Ridge e Lasso) performaram excepcionalmente bem, com valores de R² superiores a 0.999, indicando alta capacidade de explicar a variabilidade dos dados.
+A análise revelou que os modelos lineares (Linear Regression, Ridge e Lasso) performaram excepcionalmente bem, com valores de R² superiores a 0.999, indicando alta capacidade de explicar a variabilidade dos dados.
 Além disso, os erros (MAE e RMSE) foram extremamente baixos, sugerindo previsões precisas e estáveis. Esses resultados apontam para uma predominância de relações lineares entre as variáveis.
 
 Por outro lado, os modelos não lineares (Decision Tree, Random Forest e XGBoost) também apresentaram boa performance, com destaque para o XGBoost (R² = 0.995), que capturou interações complexas entre variáveis.
